@@ -1,0 +1,44 @@
+<p>Smart Balance 6.5" Ver. 1</p> 
+    <p><img src="../localhost 3/images/tov1.jpg" width="150" height="120"><p>цена = 8990 баксов</p>
+
+
+    <h3></h3>
+    <h3></h3>
+    <h3></h3> 
+    <p>KIWANO KO-X ES03</p>
+    <p><img src="../localhost 3/images/tov2.jpg"width="150" height="120"><p>цена = 18990 баксов</p>
+
+
+    <h3></h3>
+    <h3></h3>
+    <h3></h3>
+    <p>Minirobot Mini PRO 36V Белый</p>
+    <p><img src="../localhost 3/images/tov3.jpg"width="150" height="120"><p>цена = 16990 баксов</p>
+
+
+    <h3></h3>
+    <h3></h3>
+    <h3></h3>
+    <p>Xiaomi Ninebot Mini</p>
+    <p><img src="../localhost 3/images/tov4.jpg"width="150" height="120"><p>цена = 22900 баксов</p>
+
+
+    <h3></h3>
+    <h3></h3>
+    <h3></h3>
+    <p>Hili E+</p>
+    <p><img src="../localhost 3/images/tov5.jpg"width="150" height="120"><p>цена = 39900 баксов</p>
+
+
+    <h3></h3>
+    <h3></h3>
+    <h3></h3>
+    <p>Yamato PES MINI</p>
+    <p><img src="../localhost 3/images/tov6.jpg"width="150" height="120"><p>цена = 15900 баксов</p>
+
+
+    <h3></h3>
+    <h3></h3>
+    <h3></h3>
+    <p>KUGOO S2 (Jilong)</p>
+    <p><img src="../localhost 3/images/tov7.jpg"width="150" height="120"><p>цена = 14900 баксов</p>

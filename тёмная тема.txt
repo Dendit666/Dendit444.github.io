@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="light-mode.css" id="theme">
+</head>
+
+<body>
+    <div class="wrapper">
+      <h5>Тёмная тема сайта</h5>
+      <button id="switchMode">switch</button>
+    </div>
+    <script src="../localhost 3/script.js"></script>
+  </body>
+</html>
